@@ -1,4 +1,3 @@
-# Password-Generator-and-Management
 # Password Generator and Management
 
 ## About the Project
